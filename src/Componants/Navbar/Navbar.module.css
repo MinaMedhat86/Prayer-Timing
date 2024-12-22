@@ -1,0 +1,19 @@
+.lang {
+    width: 30px;
+    font-size: 25px;
+    margin-inline: 1px;
+    font-weight: 550;
+    transition: 0.5s all;
+  }
+  
+  .lang:hover {
+    color: #b48b0f !important;
+    transform: scale(98%);
+  }
+
+
+  .line {
+    width: 2px;
+    height: 30px;
+    background-color: #b48b0f;
+  }

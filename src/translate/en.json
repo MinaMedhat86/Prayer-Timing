@@ -1,0 +1,32 @@
+{ 
+  "navbar" : {
+  "search" : "Search",
+  "ar" : "AR"
+},
+"mainContent" : {
+  "date" : "Sep 9 2023 | 4:20", 
+  "place" : "Makkah",
+  "prayer" : "Until the ",
+  "time" : "00:10:20",
+  "city" : "City"
+},
+ "card" : {
+  "fagr" : "Fajr prayer ",
+  "3sr" : "Asr prayer ",
+  "zhr" : "Dhuhr prayer ",
+  "34a" : "Isha prayer ",
+  "m8rb" : "Maghrib prayer "
+},
+"choose" : {
+  "eg" : "Egypt",
+  "sa" : "Saudi Arabia",
+  "cairo" : "Cairo",
+  "alex" : "Alexandria",
+  "giza" : "Giza",
+  "makkah" : "Makkah",
+  "dmam" : "Dammam",
+  "riad" : "Riyadh"
+}
+
+  
+}

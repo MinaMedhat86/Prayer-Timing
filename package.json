@@ -2,7 +2,7 @@
   "name": "app5",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://MinaMedhat86.github.io/Prayers-Timing",
+  "homepage": "https://MinaMedhat86.github.io/Prayer-Timing",
   "type": "module",
   "scripts": {
     "start": "vite",

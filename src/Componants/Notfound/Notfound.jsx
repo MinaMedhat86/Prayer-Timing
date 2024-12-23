@@ -13,7 +13,7 @@ export function Notfound() {
       <Lottie animationData={erorr404} className={` ${Style.error404}  rounded-lg`}  />
     </div>
     <Link
-      to="/prayers-timing"
+      to="/prayer-timing"
       className="mt-3 btn btn-dark w-25 py-2 text-center"
     >
       Back To Home

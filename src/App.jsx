@@ -9,11 +9,11 @@ function App() {
 
   let routers = createBrowserRouter([
     { path : "" , element : <Layout/> , children : [
-      {path : "Prayers-Timing" , element : <Home/> },
+      {path : "Prayer-Timing" , element : <Home/> },
       {path : "*" , element : <Notfound/>}
     ]},
 
-    
+
 
   ])
 

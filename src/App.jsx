@@ -9,7 +9,7 @@ function App() {
 
   let routers = createBrowserRouter([
     { path : "" , element : <Layout/> , children : [
-      {path : "Prayer-Timing" , element : <Home/> },
+      {index : true , element : <Home/> },
       {path : "*" , element : <Notfound/>}
     ]},
 
